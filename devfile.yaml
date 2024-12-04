@@ -1,6 +1,6 @@
 schemaVersion: 2.2.2
 metadata:
-  name: ansible-demo
+  name: redhat-ansible-demo
 components:
   - name: tooling-container
     container:
