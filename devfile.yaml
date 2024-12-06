@@ -5,7 +5,7 @@ projects:
   - name: playbooks
     git:
       remotes:
-        origin: 'https://github.com/Keyvan-rh/argo-examples.git'
+        origin: 'https://github.com/scdaniels/ansible-sysadmin-devspaces.git'
 components:
   - name: tooling-container
     container:
