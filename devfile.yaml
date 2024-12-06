@@ -1,6 +1,11 @@
 schemaVersion: 2.2.2
 metadata:
   name: redhat-ansible-demo
+projects:
+  - name: playbooks
+    git:
+      remotes:
+        origin: 'https://github.com/scdaniels/ansible-sysadmin-devspaces.git'
 components:
   - name: tooling-container
     container:
